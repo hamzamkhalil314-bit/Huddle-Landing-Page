@@ -4,7 +4,7 @@ A responsive landing page built as part of a Frontend Mentor challenge. This pro
 
 ## 🚀 Live Demo
 
-https://your-live-demo-link.com
+[https://your-live-demo-link.com](https://hamzamkhalil314-bit.github.io/Huddle-Landing-Page/)
 
 ## ✨ Features
 
